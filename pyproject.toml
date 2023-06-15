@@ -1,0 +1,15 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "td2thinh", email = "75013885+td2thinh@users.noreply.github.com"},
+]
+dependencies = [
+    "sqlalchemy>=2.0.16",
+    "fastapi>=0.97.0",
+    "uvicorn>=0.22.0",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
